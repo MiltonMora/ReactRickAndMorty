@@ -1,0 +1,22 @@
+.card_location {
+    margin: 3px;
+    padding: 3px;
+    width: 24%;
+}
+.card_body_location {
+    border: 1px solid;
+    width: 100%;
+    text-align: center;
+    background-color: #69c8ecff;
+    border-radius: 0 0 10px 10px;
+    padding: 10px 0 10px 0;
+}
+.card_name {
+    width: 100%;
+    border: 1px solid;
+    border-radius: 10px 10px 0 0;
+    text-align: center;
+    padding: 10px 0 10px 0;
+    font-size: 20px;
+    background-color: #917c5dff;
+}

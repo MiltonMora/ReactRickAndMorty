@@ -1,0 +1,12 @@
+.extend_btn {
+    width: 90%;
+    margin-bottom: 30px;
+    height: 50px;
+    font-size: 30px;
+    margin-left: 5%;
+    border-radius: 5px;
+    cursor: pointer;
+    background-color: #24325fff;
+    color: white;
+    font-weight: bolder;
+}
