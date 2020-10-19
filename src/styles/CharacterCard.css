@@ -1,0 +1,32 @@
+.card {
+    margin: 3px;
+    padding: 3px;
+    display: flex;
+    width: 24%;
+}
+.card img{
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    margin-right: -10%;
+    z-index: 1;
+    border: 2px solid white;
+}
+.card_body {
+    border: 1px solid;
+    width: 100%;
+    padding-left: 12%;
+    padding-top: 5%;
+    align-items: center;
+    background-color: #69c8ecff;
+    border-radius: 10px;
+}
+.card p, .card em {
+    font-size: 18px;
+}
+.red {
+    color: red;
+}
+.green {
+    color: green;
+}

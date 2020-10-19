@@ -1,0 +1,26 @@
+.characters_container {
+    margin: 10px 5px 20px 5px;
+    padding: 5px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    border-radius: 10px;
+}
+.pagination_container {
+    display: flex;
+    justify-content: center;
+}
+.Next, .Prev {
+    width: 50px;
+    cursor: pointer;
+}
+.Prev {
+    margin-right: 50px;
+}
+.btn {
+    border: none;
+    background: none;
+    margin: 0;
+    padding: 0;
+    outline: none;
+}

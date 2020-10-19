@@ -1,0 +1,12 @@
+body {
+  margin: 0;
+  font-family: rick_and_morty_font_by_starriichan_d9h2vl6;
+  src: url(./styles/Fonts/rick_and_morty_font_by_starriichan_d9h2vl6.ttf);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
